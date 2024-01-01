@@ -1,3 +1,4 @@
+---
 <h2>Website Blog</h2>
 
 Website blog ini adalah project laravel pertama saya.
