@@ -1,9 +1,8 @@
----
 <h2>Website Blog</h2>
 
 Website blog ini adalah project laravel pertama saya.
 
-<h2>🧐 Fitur apa saja yang ada di website blog ini</h2>
+<!-- <h2>🧐 Fitur apa saja yang ada di website blog ini</h2>
 -   [Dashboard Bootstrap Template](https://getbootstrap.com/docs/5.0/examples/dashboard/)
     -   Dashboard UI
     -   Dark and light mode
@@ -26,7 +25,7 @@ Website blog ini adalah project laravel pertama saya.
 -   Cari data user
     -   Judul blog
     -   Blog berdasarkan kategori
-
+ -->
 <h2 id="installation">💻 Installation</h2>
 
 1. Clone repository
